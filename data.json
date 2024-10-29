@@ -1,0 +1,9 @@
+{
+  "title": "Welcome to My Sample Website",
+  "description": "This is a simple website that fetches and displays data from a JSON file using the Fetch API.",
+  "items": [
+    { "name": "Item 1", "value": "This is the first item." },
+    { "name": "Item 2", "value": "This is the second item." },
+    { "name": "Item 3", "value": "This is the third item." }
+  ]
+}
